@@ -1,0 +1,7 @@
+a:hover{
+	background-color: red;
+}
+.a1:hover{
+	background-color: transparent;
+	color: darkviolet;
+}
